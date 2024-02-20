@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hossam Hassan</h1>
+<h1 align="center">Hi 👋 I'm Hossam Hassan</h1>
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat"
         alt="manarshahin48" />
-    <img src="https://img.shields.io/github/followers/mahdymogazy?label=Followers" alt="mahdymogazy758" />
 </p>
 <br />
 <img align="right"
@@ -25,9 +24,6 @@
 <p align="center">
     <a href="mailto:hosam01157459778@gmail.com" title="Gmail"><img
             src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-            <a href="https://github.com/Hosam3050" title="GitHub"><img
-                src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-                alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/hossam-hassan-b04448288/" title="LinkedIn"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
