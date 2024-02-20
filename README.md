@@ -2,8 +2,10 @@
 <h3 align="center">A passionate Full Stack Developer from Egypt</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat"
-        alt="manarshahin48" />
+    <img src="https://komarev.com/ghpvc/?username=Hosam3050&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Hosam3050" />
+        <img src="https://img.shields.io/github/followers/Hosam3050?label=Followers" alt="Hosam3050" />
+
 </p>
 <br />
 <img align="right"
