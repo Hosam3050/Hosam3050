@@ -11,9 +11,10 @@
     src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
     width="250px" />
 
-    Graduated from the Faculty of Specific Education, Department of Technology<br>
-    - 🌱 I’m currently
-studying React and Node Js -Eager Junior Software Developer seeking a challenging role in Front-End ,<br>and back-end Development. Possess a solid understanding of both Software and Website Development.<br> Enthusiastic about contributing to a collaborative team environment.<br>
+    Graduated from the Faculty of Specific Education, Department of Technology &
+    Information Technology Institute (ITI).
+
+-Eager Junior Software Developer seeking a challenging role in Front-End, and back-end Development. Possess a solid understanding of both Software and Website Development.<br> Enthusiastic about contributing to a collaborative team environment.<br>
 -thinking: I’m currently open for a new job opportunity,.<br>
 -Always learning new things - 🐼 Doing my best -<br> - ⚡ Fun fact
 *There is no such thing as impossible✌*
@@ -54,8 +55,6 @@ studying React and Node Js -Eager Junior Software Developer seeking a challengin
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" />
     </a>
-
-
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="40" height="40" />
@@ -63,11 +62,9 @@ studying React and Node Js -Eager Junior Software Developer seeking a challengin
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     </a>
-
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
-
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" />
@@ -106,7 +103,6 @@ studying React and Node Js -Eager Junior Software Developer seeking a challengin
             <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
                 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
             </a>
-
             <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
                     alt="sass" width="40" height="40" />
@@ -117,18 +113,14 @@ studying React and Node Js -Eager Junior Software Developer seeking a challengin
             </a>
             <br>
                 <p align="center">
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo"
-                        alt="manarshahin48" />
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hosam3050&theme=tokyonight_duo"
+                        alt="Hosam3050" />
                 </p>
                 <br />
                 <p align="center">
                     <a href="https://github.com/anuraghazra/github-readme-stats">
-                        <img alt="manarshahin48's Github Stats"
+                        <img alt="Hosam3050's Github Stats"
                             src="https://github-readme-stats.vercel.app/api?username=Hosam3050&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact"
                             height="230px" /></a>
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hossam&langs_count=10&show_icons=true&locale=en&theme=tokyonight"
-                        alt="manarshahin48" height="230px" />
-                    <br />
-                </p>
-            </a></a></a>
+                   
 </p>
