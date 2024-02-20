@@ -7,6 +7,9 @@
         <img src="https://img.shields.io/github/followers/Hosam3050?label=Followers" alt="Hosam3050" />
 
 </p>
+<h3 align="center">⚡There is no such thing as impossible✌
+</h3>
+
 <br />
 <img align="right"
     src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
@@ -17,8 +20,8 @@
 
 -Eager Junior Software Developer seeking a challenging role in Front-End, and back-end Development. Possess a solid understanding of both Software and Website Development.<br> Enthusiastic about contributing to a collaborative team environment.<br>
 -thinking: I’m currently open for a new job opportunity,.<br>
--Always learning new things - 🐼 Doing my best -<br> - ⚡ Fun fact
-*There is no such thing as impossible✌*
+-Always learning new things 
+-Doing my best ⚡
 
 <br />
 
